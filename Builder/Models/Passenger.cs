@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace DesignPatterns.Models
+namespace DesignPatterns.Builder.Models
 {
     public class Passenger
     {
