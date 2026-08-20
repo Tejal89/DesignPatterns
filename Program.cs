@@ -1,5 +1,6 @@
 ﻿
 using DesignPatterns.Builder;
+using DesignPatterns.Singleton;
 
-DemoBuilder.Process();
-
+//DemoBuilder.Process();
+DemoSingleton.Process();

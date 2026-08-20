@@ -1,5 +1,6 @@
 # DesignPatterns
 
 This is a repository for collection of Design Pattern examples in C#
-Currently Added:
+# Current implementation includes
 1) Builder Pattern
+2) Singleton Pattern 
